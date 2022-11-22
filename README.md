@@ -70,6 +70,7 @@
 ![apple](https://img.shields.io/badge/apple-black.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/visual_studio_code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Firefox Browser Badge](https://img.shields.io/badge/Firefox%20Browser-FF7139?logo=firefoxbrowser&logoColor=fff&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 

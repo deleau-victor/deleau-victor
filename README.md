@@ -10,7 +10,7 @@
 <div align="center">
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victor-deleau/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deleau-victor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ## My skills 🚀
@@ -85,3 +85,7 @@
 ### 🧠 Currently learning
 ![NestJS](https://img.shields.io/badge/nest_js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+<div align='center'>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deleau-victor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>

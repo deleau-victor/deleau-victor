@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  I am a French <strong>developer</strong>. 🇫🇷<br/>
+  I am a French <strong>developer</strong> 🇫🇷<br/>
 </p>
 
 <div align="center">

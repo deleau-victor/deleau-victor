@@ -13,6 +13,8 @@
 
 </div>
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 ## My skills 🚀
 
 ### 👅 Languages
@@ -44,8 +46,10 @@
 
 ### ⚙️ Backend
 
+![NestJS](https://img.shields.io/badge/nest_js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 
 ### 🗄 Databases
 
@@ -87,7 +91,6 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ### 🧠 Currently learning
-![NestJS](https://img.shields.io/badge/nest_js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 <div align='center'>

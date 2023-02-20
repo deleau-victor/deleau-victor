@@ -1,11 +1,11 @@
 <h1 align="center">
   <span>Victor DELEAU</span><br>
-  <span>👨‍💻 FullStack Web Developer 👨‍💻</span>
+  <span>👨‍💻 FullStack Developer 👨‍💻</span>
 </h1>
 
-<p align="center">
+<h2 align="center">
   I am a French <strong>developer</strong> 🇫🇷<br/>
-</p>
+</h2>
 
 <div align="center">
 

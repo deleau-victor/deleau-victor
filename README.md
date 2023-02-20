@@ -27,7 +27,7 @@
 ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
 ![PHP](https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Dart](https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart1.svg)
 ![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown1.svg)
 
 ### 🧰 Frontend
@@ -78,7 +78,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### 💢 GraphQL
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![GraphQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql1.svg)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge)
 
@@ -98,7 +98,7 @@
 ### 🖥️ Environment
 
 ![MacOs](https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Debian](https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg)
 ![Windows 11](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg)
 ![VS Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
 ![Firefox Browser](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox2.svg)

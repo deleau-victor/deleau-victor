@@ -3,9 +3,9 @@
   <span>👨‍💻 FullStack Developer 👨‍💻</span>
 </h1>
 
-<h2 align="center">
+<h3 align="center">
   I am a French <strong>developer</strong> 🇫🇷<br/>
-</h2>
+</h3>
 
 <div align="center">
 

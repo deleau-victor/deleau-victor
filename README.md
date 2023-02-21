@@ -108,10 +108,10 @@
 ### 🖌 Design
 
 ![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
+![Adobe XD](https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd1.svg)
+![Adobe Photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg)
+![Adobe Illustrator](https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator1.svg)
+![Adobe InDesign](https://ziadoua.github.io/m3-Markdown-Badges/badges/InDesign/indesign1.svg)
 
 ### 📈 Project Management
 

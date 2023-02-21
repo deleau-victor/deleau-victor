@@ -35,10 +35,10 @@
 ![NextJS](https://img.shields.io/badge/next_js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
 ![Electron](https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron1.svg)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux1.svg)
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 ![VueJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg)
-![Axios Badge](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge)
+![Axios Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios1.svg)
 
 ### 📱 Mobile 
 
@@ -75,7 +75,7 @@
 
 ### ⚙️ ORM
 
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Prisma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
 
 ### 💢 GraphQL
 ![GraphQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql1.svg)
@@ -103,7 +103,7 @@
 ![VS Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
 ![Firefox Browser](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox2.svg)
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)
 
 ### 🖌 Design
 
@@ -118,7 +118,7 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ### 🧠 Currently learning
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg)
 
 <div align='center'>
   

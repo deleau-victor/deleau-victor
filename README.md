@@ -48,9 +48,8 @@
 ### 🎨 UI
 
 ![Tailwind](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Styled Components](https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components1.svg)
 ![Sass](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg)
-![NativeBase](https://deleau-victor-pro.npkn.net/guthub-badge-native-base/)
 ![Bootstrap](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg)
 
 ### ⚙️ Backend
@@ -58,8 +57,8 @@
 ![NestJS](https://img.shields.io/badge/nest_js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
 ![Express Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg)
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Symfony](https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony1.svg)
+![JWT](https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg)
 
 ### 🗄  SQL Databases
 

@@ -27,7 +27,7 @@
 ### 👅 Languages
 ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
 ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
-![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg)
 ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
 ![PHP](https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg)
 ![Dart](https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart1.svg)
@@ -36,7 +36,7 @@
 ### 🧰 Frontend
 
 ![NextJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)
-![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg)
 ![Electron](https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron1.svg)
 ![Redux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux1.svg)
 ![Gatsby](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gatsby/gatsby1.svg)

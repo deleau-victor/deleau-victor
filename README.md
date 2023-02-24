@@ -1,5 +1,8 @@
 <h1 align="center">
-  <span>Victor DELEAU</span><br>
+  
+  [<img src="https://cdn.discordapp.com/attachments/1077001535193612358/1078736283574227034/victordeleau2.png" />](https://deleauvictor.fr)
+  
+  <br>
   <span>👨‍💻 FullStack Developer 👨‍💻</span>
 </h1>
 

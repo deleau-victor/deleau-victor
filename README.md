@@ -25,105 +25,105 @@
 ## My skills 🚀
 
 ### 👅 Languages
-![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
-![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
-![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg)
-![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
-![PHP](https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg)
-![Dart](https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart1.svg)
-![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown1.svg)
+![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg)
+![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg)
+![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg)
+![PHP](https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php3.svg)
+![Dart](https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart3.svg)
+![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
 
 ### 🧰 Frontend
 
-![NextJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)
-![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg)
-![Electron](https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron1.svg)
-![Redux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux1.svg)
-![Gatsby](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gatsby/gatsby1.svg)
+![NextJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
+![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg)
+![Electron](https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron3.svg)
+![Redux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux3.svg)
+![Gatsby](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gatsby/gatsby3.svg)
 ![VueJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg)
-![Astro](https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro1.svg)
-![Axios Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios1.svg)
+![Astro](https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro3.svg)
+![Axios Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios3.svg)
 
 ### 📱 Mobile 
 
-![Expo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo1.svg)
-![React Native](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative1.svg)
+![Expo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
+![React Native](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg)
 
 ### 🎨 UI
 
-![Tailwind](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
-![Styled Components](https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components1.svg)
-![Sass](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg)
-![Bootstrap](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg)
+![Tailwind](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg)
+![Styled Components](https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components3.svg)
+![Sass](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass3.svg)
+![Bootstrap](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap3.svg)
 
 ### ⚙️ Backend
 
-![NestJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg)
-![NodeJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
-![Express Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg)
-![Symfony](https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony1.svg)
-![JWT](https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg)
+![NestJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs3.svg)
+![NodeJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg)
+![Express Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
+![Symfony](https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony3.svg)
+![JWT](https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt3.svg)
 
 ### 🗄  SQL Databases
 
-![Postgres](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg)
-![MariaDB](https://ziadoua.github.io/m3-Markdown-Badges/badges/MariaDB/mariadb1.svg)
-![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg)
-![Supabase](https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg)
+![Postgres](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
+![MariaDB](https://ziadoua.github.io/m3-Markdown-Badges/badges/MariaDB/mariadb3.svg)
+![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
+![Supabase](https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase3.svg)
 
 ### 🗄  NoSQL Databases
 
-![MongoDB](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
-![Firebase](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg)
+![MongoDB](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg)
+![Firebase](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg)
 
 ### ⚙️ ORM
 
-![TypeOrm](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm1.svg)
-![Prisma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
+![TypeOrm](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm3.svg)
+![Prisma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma3.svg)
 
 ### 💢 GraphQL
-![GraphQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql1.svg)
-![Apollo-GraphQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/ApolloGraphQL/apollographql1.svg)
+![GraphQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql3.svg)
+![Apollo-GraphQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/ApolloGraphQL/apollographql3.svg)
 
 ### 🔧 Tools
-![Prettier](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier1.svg)
-![Jest](https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest1.svg)
-![ESLint](https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint1.svg)
-![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
-![Yarn](https://ziadoua.github.io/m3-Markdown-Badges/badges/Yarn/yarn1.svg)
-![Vite](https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg)
-![Babel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Babel/babel1.svg)
+![Prettier](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier3.svg)
+![Jest](https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg)
+![ESLint](https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint3.svg)
+![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman3.svg)
+![Yarn](https://ziadoua.github.io/m3-Markdown-Badges/badges/Yarn/yarn3.svg)
+![Vite](https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs3.svg)
+![Babel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Babel/babel3.svg)
 
 ### 🗄 Server
 
-![Nginx](https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx1.svg)
+![Nginx](https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx3.svg)
 
 ### 🖥️ Environment
 
-![MacOs](https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg)
-![Debian](https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg)
-![Windows 11](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg)
-![VS Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
-![Firefox Browser](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox2.svg)
-![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
-![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)
+![MacOs](https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos3.svg)
+![Debian](https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian3.svg)
+![Windows 11](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows3.svg)
+![VS Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
+![Firefox Browser](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox3.svg)
+![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg)
+![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)
 
 ### 🖌 Design
 
-![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg)
-![Adobe XD](https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd1.svg)
-![Adobe Photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg)
-![Adobe Illustrator](https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator1.svg)
-![Adobe InDesign](https://ziadoua.github.io/m3-Markdown-Badges/badges/InDesign/indesign1.svg)
+![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg)
+![Adobe XD](https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd3.svg)
+![Adobe Photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop3.svg)
+![Adobe Illustrator](https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg)
+![Adobe InDesign](https://ziadoua.github.io/m3-Markdown-Badges/badges/InDesign/indesign3.svg)
 
 ### 📈 Project Management
 
-![Trello](https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello1.svg)
-![Notion](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
+![Trello](https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello3.svg)
+![Notion](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg)
 
 ### 🧠 Currently learning
-![SolidJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/SolidJS/solidjs1.svg)
-![Flutter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg)
+![SolidJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/SolidJS/solidjs3.svg)
+![Flutter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter3.svg)
 
 <div align='center'>
   

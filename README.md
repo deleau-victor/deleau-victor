@@ -32,17 +32,18 @@
 
 ### 🧰 Frontend
 
-![NextJS](https://img.shields.io/badge/next_js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![NextJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)
 ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
 ![Electron](https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron1.svg)
 ![Redux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux1.svg)
-![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
+![Gatsby](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gatsby/gatsby1.svg)
 ![VueJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg)
+![Astro](https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro1.svg)
 ![Axios Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios1.svg)
 
 ### 📱 Mobile 
 
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Expo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo1.svg)
 ![React Native](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative1.svg)
 
 ### 🎨 UI
@@ -54,7 +55,7 @@
 
 ### ⚙️ Backend
 
-![NestJS](https://img.shields.io/badge/nest_js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![NestJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg)
 ![NodeJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
 ![Express Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg)
 ![Symfony](https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony1.svg)
@@ -74,12 +75,12 @@
 
 ### ⚙️ ORM
 
+![TypeOrm](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm1.svg)
 ![Prisma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
 
 ### 💢 GraphQL
 ![GraphQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql1.svg)
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge)
+![Apollo-GraphQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/ApolloGraphQL/apollographql1.svg)
 
 ### 🔧 Tools
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
@@ -114,9 +115,10 @@
 
 ### 📈 Project Management
 
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Trello](https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello1.svg)
 
 ### 🧠 Currently learning
+![SolidJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/SolidJS/solidjs1.svg)
 ![Flutter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg)
 
 <div align='center'>

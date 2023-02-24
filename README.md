@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" />](https://www.linkedin.com/in/victor-deleau/)
+[<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" />](https://www.linkedin.com/in/victor-deleau/)
 
 </div>
 

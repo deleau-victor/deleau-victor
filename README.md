@@ -16,12 +16,6 @@
 
 </div>
 
-<div align="center">
-  
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
-</div>
-
 ## My skills 🚀
 
 ### 👅 Languages

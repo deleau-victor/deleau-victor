@@ -86,12 +86,12 @@
 ![Apollo-GraphQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/ApolloGraphQL/apollographql1.svg)
 
 ### 🔧 Tools
-![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)
-![ESLint Badge](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Prettier](https://github.com/ziadOUA/m3-Markdown-Badges/badges/Prettier/prettier1.svg)
+![Jest](https://github.com/ziadOUA/m3-Markdown-Badges/badges/Jest/jest1.svg)
+![ESLint](https://github.com/ziadOUA/m3-Markdown-Badges/badges/ESLint/eslint1.svg)
+![Postman](https://github.com/ziadOUA/m3-Markdown-Badges/badges/Postman/postman1.svg)
 ![Yarn](https://ziadoua.github.io/m3-Markdown-Badges/badges/Yarn/yarn1.svg)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vite](https://github.com/ziadOUA/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg)
 ![Babel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Babel/babel1.svg)
 
 ### 🗄 Server
@@ -119,6 +119,7 @@
 ### 📈 Project Management
 
 ![Trello](https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello1.svg)
+![Notion](https://github.com/ziadOUA/m3-Markdown-Badges/badges/Notion/notion1.svg)
 
 ### 🧠 Currently learning
 ![SolidJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/SolidJS/solidjs1.svg)

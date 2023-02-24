@@ -102,7 +102,7 @@
 
 ![MacOs](https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos2.svg)
 ![Debian](https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian2.svg)
-![Windows 11](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg)ziadoua.github.io/m3
+![Windows 11](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg)
 ![VS Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
 ![Firefox Browser](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox2.svg)
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)

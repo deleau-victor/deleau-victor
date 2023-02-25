@@ -25,6 +25,7 @@
 ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg)
 ![PHP](https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg)
 ![Dart](https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg)
+![GraphQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql2.svg)
 ![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg)
 
 ### 🧰 Frontend
@@ -37,6 +38,7 @@
 ![VueJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue2.svg)
 ![Astro](https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro2.svg)
 ![Axios Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
+![Apollo-GraphQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/ApolloGraphQL/apollographql2.svg)
 
 ### 📱 Mobile 
 
@@ -74,10 +76,6 @@
 
 ![TypeOrm](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm2.svg)
 ![Prisma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma2.svg)
-
-### 💢 GraphQL
-![GraphQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql2.svg)
-![Apollo-GraphQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/ApolloGraphQL/apollographql2.svg)
 
 ### 🔧 Tools
 ![Prettier](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier2.svg)

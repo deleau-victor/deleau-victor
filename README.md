@@ -69,3 +69,8 @@ Let’s talk tech, collaboration or freelance projects 👇
 🌐 [LinkedIn](https://www.linkedin.com/in/victor-deleau/)
 
 ---
+
+## 🔑 Cryptographic Identities
+The following Cryptographic Identities are associated with me:
+
+SSH Git Signing Key: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMehZJobnj4tO5dmJp6N/1EAkSOVFwWZjhicEuUH2lxL`

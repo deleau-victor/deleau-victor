@@ -74,4 +74,5 @@ Let’s talk tech, collaboration or freelance projects 👇
 The following Cryptographic Identities are associated with me:
 
 **SSH Git Signing Key**: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMehZJobnj4tO5dmJp6N/1EAkSOVFwWZjhicEuUH2lxL`
+
 **GPG Git Signing Key**: `7A244B629FFF3E15`

@@ -21,12 +21,12 @@
 ## ⚡ My Tech Stack
 
 <div align="center">
-  <img src="https://cdn.coresync.fr/assets/csharp.svg" alt="C#" height="64"/>
-  <img src="https://cdn.coresync.fr/assets/net.svg" alt=".NET" height="64"/>
-  <img src="https://cdn.coresync.fr/assets/typescript.svg" alt="TypeScript" height="64"/>
-  <img src="https://cdn.coresync.fr/assets/angular.svg" alt="Angular" height="64"/>
-  <img src="https://cdn.coresync.fr/assets/vue.svg" alt="Vue" height="64"/>
-  <img src="https://cdn.coresync.fr/assets/react.svg" alt="React" height="64"/>
+  <img src="https://raw.githubusercontent.com/deleau-victor/deleau-victor/refs/heads/main/svg/csharp.svg" alt="C#" height="64"/>
+  <img src="https://raw.githubusercontent.com/deleau-victor/deleau-victor/refs/heads/main/svg/net.svg" alt=".NET" height="64"/>
+  <img src="https://raw.githubusercontent.com/deleau-victor/deleau-victor/refs/heads/main/svg/typescript.svg" alt="TypeScript" height="64"/>
+  <img src="https://raw.githubusercontent.com/deleau-victor/deleau-victor/refs/heads/main/svg/angular.svg" alt="Angular" height="64"/>
+  <img src="https://raw.githubusercontent.com/deleau-victor/deleau-victor/refs/heads/main/svg/vue.svg" alt="Vue" height="64"/>
+  <img src="https://raw.githubusercontent.com/deleau-victor/deleau-victor/refs/heads/main/svg/react.svg" alt="React" height="64"/>
 </div>
 
 ---

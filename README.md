@@ -33,10 +33,10 @@
 
 ## 🧠 About Me
 
-- 💼 I'm a **FullStack developer** focused on building scalable and maintainable applications
-- 🧰 My main tools: **.NET 9**, **Angular 19**, **Vue 3**, **Clean Architecture**, **CQRS**
+- 💼 I'm a **FullStack developer** focused on building scalable, observable and maintainable applications
+- 🧰 My main tools: **.NET 10**, **Angular 19**, **Vue 3**
 - 🧪 I care deeply about **code quality**, **functional testing**, **performance**, and **automation**
-- 🔧 I also build **DevOps tools**, **mobile apps**, and love crafting internal libraries
+- 🔧 I also care about **DevOps principles** and **Software Crafmanship**
 - 🌍 Currently working as **employee**, open to **remote/international opportunities**
 
 ---
@@ -48,16 +48,6 @@
 | [**DDay-live**](https://www.ddaylive.com/application-d-day-live/)      | A mobile app for Normandy’s D-Day event visitors – live info, historic monuments & maps 🇫🇷 | .NET · Flutter   |
 | [**.NET Clean Architecture Template**](https://github.com/CoreSyncHub/DotnetCleanAspire) | Production ready template for .NET Applications                                      | .NET 10+           |
 | [**NGX Query**](https://github.com/CoreSyncHub/ngx-query)      | data-fetching library for Angular applications                                             | Angular 20, RXJs |
-
----
-
-## 📊 GitHub Stats
-
-<div align='center'>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deleau-victor&layout=compact&show_icons=true&theme=onedark&locale=en)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
 
 ---
 

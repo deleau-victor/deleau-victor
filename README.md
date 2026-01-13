@@ -45,9 +45,9 @@
 
 | Project            | Description                                                                                | Stack            |
 | ------------------ | ------------------------------------------------------------------------------------------ | ---------------- |
-| **DDay-live**      | A mobile app for Normandy’s D-Day event visitors – live info, historic monuments & maps 🇫🇷 | .NET · Flutter   |
-| **Handly** _(WIP)_ | A lightweight request dispatcher inspired by MediatR                                       | .NET 9           |
-| **NGX Query**      | data-fetching library for Angular applications                                             | Angular 20, RXJs |
+| [**DDay-live**](https://www.ddaylive.com/application-d-day-live/)      | A mobile app for Normandy’s D-Day event visitors – live info, historic monuments & maps 🇫🇷 | .NET · Flutter   |
+| [**.NET Clean Architecture Template**](https://github.com/CoreSyncHub/DotnetCleanAspire) | Production ready template for .NET Applications                                      | .NET 10+           |
+| [**NGX Query**](https://github.com/CoreSyncHub/ngx-query)      | data-fetching library for Angular applications                                             | Angular 20, RXJs |
 
 ---
 

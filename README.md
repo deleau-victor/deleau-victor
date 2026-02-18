@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  [![Linkedin](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg)](https://www.linkedin.com/in/victor-deleau/)
+  [ ![Linkedin](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg) ](https://www.linkedin.com/in/victor-deleau/)
 </div>
 
 ---

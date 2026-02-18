@@ -13,13 +13,10 @@
 </p>
 
 <p align="center">
-  
-  [![homepage][1]][2]
-
+  <a href="https://www.linkedin.com/in/victor-deleau">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="LinkedIn" />
+  </a>
 </p>
-
-[1]:  https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg
-[2]:  https://www.linkedin.com/in/victor-deleau
 
 ---
 

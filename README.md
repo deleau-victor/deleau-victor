@@ -12,9 +12,8 @@
   Specializing in Kubernetes, Docker, Helm, and the PLGT observability stack (Prometheus, Loki, Grafana, Tempo).
 </p>
 
-<div align="center">
+
   [![homepage][1]][2]
-</div>
 
 [1]:  https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg
 [2]:  https://www.linkedin.com/in/victor-deleau
